@@ -17,11 +17,11 @@ Não comece a redação sem ter, de forma explícita, as três respostas abaixo.
 2. **Público-alvo** — escolha entre: misto (empresários e advogados) / foco em imobiliárias e administradoras / advogados e operadores do direito / pessoas físicas com conflitos patrimoniais.
 3. **CTA — para qual serviço apontar** — arbitragem digital / notificação extrajudicial / conciliação / página institucional "como funciona" / implementação de cláusula arbitral.
 
-Com as três respostas em mãos, pesquise **no mínimo 3 fontes distintas e verificáveis** (ver `references/fontes-permitidas.md`) antes de escrever. Use apenas dados verificáveis das fontes oficiais da Arbitralis e das fontes externas listadas. **Nunca invente dados, taxas de conversão ou estatísticas.** Os números oficiais sancionados para uso em artigo estão em `references/dados-e-ecossistema.md`.
+Com as três respostas em mãos, pesquise **no mínimo 3 fontes distintas e verificáveis** (ver `fontes-permitidas.md`) antes de escrever. Use apenas dados verificáveis das fontes oficiais da Arbitralis e das fontes externas listadas. **Nunca invente dados, taxas de conversão ou estatísticas.** Os números oficiais sancionados para uso em artigo estão em `dados-e-ecossistema.md`.
 
 ## Regras de estrutura
 
-- **H1 único** contendo a palavra-chave principal. Varie o formato do H1 entre artigos — nunca repita o mesmo padrão (ver `references/cta-e-diferenciacao.md`).
+- **H1 único** contendo a palavra-chave principal. Varie o formato do H1 entre artigos — nunca repita o mesmo padrão (ver `cta-e-diferenciacao.md`).
 - **H2s temáticos**, sem exagero de subdivisões.
 - **Introdução curta e direta, com alto time to value**: o leitor entende o valor do artigo já no primeiro parágrafo. Sem aquecimento.
 - **Prosa corrida como padrão.**
@@ -51,9 +51,9 @@ Ao final de **todo** artigo, entregue, nesta ordem:
 
 1. **Meta title** — com a keyword, até 60 caracteres.
 2. **Meta description** — com a keyword, benefício claro, até 155 caracteres.
-3. **2 links internos da Arbitralis** — anchor text + URL, com indicação de onde inserir no texto. Use as URLs de serviço em `references/dados-e-ecossistema.md`. Links internos vão **dentro de frases**, nunca apensos ao final.
+3. **2 links internos da Arbitralis** — anchor text + URL, com indicação de onde inserir no texto. Use as URLs de serviço em `dados-e-ecossistema.md`. Links internos vão **dentro de frases**, nunca apensos ao final.
 4. **2 links externos das fontes usadas** — anchor text + URL, **já inseridos no corpo do artigo**, dentro de frases.
-5. **CTA editorial** — copy criativa, ancorada no conteúdo específico do artigo, com ângulo diferente de qualquer CTA anterior. Siga rigorosamente as regras e a lista de CTAs proibidas em `references/cta-e-diferenciacao.md`.
+5. **CTA editorial** — copy criativa, ancorada no conteúdo específico do artigo, com ângulo diferente de qualquer CTA anterior. Siga rigorosamente as regras e a lista de CTAs proibidas em `cta-e-diferenciacao.md`.
 6. **Sugestão de imagem** — descrição do conceito visual + termo de busca em inglês.
 7. **Bloco técnico de CTA (popup GTM)** — cole exatamente este snippet ao final do corpo do artigo (padrão de todos os artigos da Arbitralis; substitui o RD Station):
 
@@ -65,15 +65,15 @@ Ao final de **todo** artigo, entregue, nesta ordem:
 
 ## Diferenciação entre artigos
 
-Artigos sobre temas parecidos precisam de ângulos completamente distintos. Antes de escrever sobre um tema já abordado, identifique o ângulo anterior e escolha um diferente. Exemplos do que já foi praticado e como evitar repetição estão em `references/cta-e-diferenciacao.md`.
+Artigos sobre temas parecidos precisam de ângulos completamente distintos. Antes de escrever sobre um tema já abordado, identifique o ângulo anterior e escolha um diferente. Exemplos do que já foi praticado e como evitar repetição estão em `cta-e-diferenciacao.md`.
 
 ## Arquivos de referência
 
 Consulte conforme a necessidade:
 
-- **`references/dados-e-ecossistema.md`** — dados oficiais sancionados para uso em artigos, ecossistema de produtos da Arbitralis (módulos 1 a 5) e todas as URLs de serviço para links internos. **Leia antes de citar qualquer número ou montar links internos.**
-- **`references/fontes-permitidas.md`** — legislação, fontes institucionais e jornalísticas permitidas; fontes proibidas. **Leia ao escolher as 3+ fontes de pesquisa e os 2 links externos.**
-- **`references/cta-e-diferenciacao.md`** — regras de CTA, lista de CTAs já usadas (proibidas como repetição), variação de H1 e diferenciação de ângulo entre artigos. **Leia ao redigir o H1 e a CTA editorial.**
+- **`dados-e-ecossistema.md`** — dados oficiais sancionados para uso em artigos, ecossistema de produtos da Arbitralis (módulos 1 a 5) e todas as URLs de serviço para links internos. **Leia antes de citar qualquer número ou montar links internos.**
+- **`fontes-permitidas.md`** — legislação, fontes institucionais e jornalísticas permitidas; fontes proibidas. **Leia ao escolher as 3+ fontes de pesquisa e os 2 links externos.**
+- **`cta-e-diferenciacao.md`** — regras de CTA, lista de CTAs já usadas (proibidas como repetição), variação de H1 e diferenciação de ângulo entre artigos. **Leia ao redigir o H1 e a CTA editorial.**
 
 ## Checklist antes de entregar
 
